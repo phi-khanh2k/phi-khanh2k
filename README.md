@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 📫 How to reach me: [Facebook](https://www.facebook.com/phikhanh2k/), [LinkedIn](https://www.linkedin.com/in/phi-khanh-2k/), [Twitter](https://twitter.com/phikhanh2k)
+- 🔭 I’m currently working on Topebox INC as a Backend Developer.
+- 🌱 I’m currently working on Golang, Microservices, Kubernetes, Docker, and so on.
+- 👯 I’m currently learning about Data Science, Data Analysis, and Machine Learning.
+
 <!--
 **phi-khanh2k/phi-khanh2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
